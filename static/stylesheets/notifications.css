@@ -4,7 +4,7 @@
     justify-content: center;
 }
 .invite-notifs-bubbles {
-    background-color: #91431f;
+    background-color: #d1d1f9 ;
     max-width: 350px;
     width: 90%;
     height: auto; 
@@ -16,7 +16,7 @@
     margin: 1em;
 }
 .task-notifs-bubbles {
-    background-color: #a55a37;
+    background-color: #d1d1f9;
     max-width: 350px;
     width: 90%;
     max-height: 70px; 
@@ -30,11 +30,11 @@
 .task-notif {
     padding: 10px;
     display: inline-block;
-    color: white;
+    color:#321c72;
 }
 .invite-notif {
     padding: 10px;
-    color: white;
+    color: #321c72;
     width: 15em;
 }
 .task-notif-delete {

@@ -7,16 +7,16 @@
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    background-color: rgb(32, 158, 148);
+    background-color: #99aee4;
 }
 
 .delete-lane-form label {
   font-weight: bold;
 }
 
-.submit-delete-lane-btn, .cancel-delete-lane-btn {
+.submit-lane-delete-btn, .cancel-delete-lane-btn {
     display: inline-block;
-    background-color: rgb(20, 79, 87);
+    background-color: #7676b3;
     color: white;
     padding: 10px;
     border: none;
@@ -31,7 +31,7 @@
 }
 
 .submit-delete-lane-btn:hover, .cancel-delete-lane-btn:hover {
-  background-color: rgb(8, 49, 59);
+  background-color: #443a4e;
     color: white;
 }
 

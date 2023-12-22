@@ -1,19 +1,3 @@
-.assign-task-container {
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    padding: 2em;
-    max-width:40%;
-    max-height: 80%;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
-    margin:auto;
-    margin-top: 5em;
-}
 
 .team-info-container h2 {
     padding: 1em;
@@ -22,15 +6,15 @@
 
 .assign-task-submit-btn{
     display: inline-block;
-    background-color: rgb(32, 143, 158);
+    background-color: #7676b3;;
     color: white;
     padding: 5px;
-    border: none;
+    border:solid #4c395f;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.2s ease;
     z-index: 2;
-    height: 2em;
+    height: 3em;
     width: 7em;
     box-sizing: border-box;
     text-align: center;
@@ -40,6 +24,19 @@
 }
 
 .assign-task-submit-btn:hover{
-    background: #28242c;
+    background: #443a4e;
     color: white;
+}
+.assign-task-container {
+    max-width: 550px;
+    min-height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+    background-color: #99aee4;
+    border: 1px solid white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
