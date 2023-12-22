@@ -128,7 +128,7 @@ input#id_name::placeholder,
 textarea#id_description::placeholder,
 input#id_time_field::placeholder
 select#id_dependencies {
-color: grey; 
+color: rgb(255, 251, 251); 
 }
 
 .form-control{

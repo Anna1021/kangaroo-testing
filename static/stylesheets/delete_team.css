@@ -3,7 +3,7 @@
     margin: auto;
     margin-top: 50px;
     position: relative;
-    background-color: rgb(32, 158, 148);
+    background-color:#99aee4;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -15,7 +15,7 @@
 
 .delete-team-btn, .cancel-button {
     display: inline-block;
-    background-color: rgb(20, 79, 87);
+    background-color: #7170b1;
     color: white;
     padding: 10px;
     border: none;
@@ -30,7 +30,7 @@
 }
 
 .delete-team-btn:hover, .cancel-button:hover {
-    background-color: #b5b29a;
+    background-color:  #321c72;
     color: rgb(14, 20, 80);
 }
 

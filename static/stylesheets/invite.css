@@ -8,7 +8,7 @@
 
 .team-info-container {
     border: 1px solid rgba(255, 255, 255, 0.623);
-    background: linear-gradient(to bottom right, #a55a37, rgba(207, 222, 220, 0.438));
+    background: linear-gradient(to bottom right,  #F4C2C2, #C2F4F4);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.589);
     height: 100%;
     width: 100%;
@@ -26,4 +26,26 @@
 
 .field-value {
     margin-bottom: 10px;
+}
+.invite-btn {
+    display: inline-block;
+    background-color: #f1b0b0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    width: 7em;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    height: 2em;
+    margin-top: 1em;
+    padding: 5px;
+}
+
+.invite-btn:hover{
+    background: #947bad;
+    color: white;
 }

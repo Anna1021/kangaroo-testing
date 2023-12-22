@@ -49,6 +49,7 @@
     background: rgb(255, 194, 194);
     border-color: #2b2b6b;
     color: black;
+    border: 1px solid rgb(155, 140, 151);
     transition: ease-in 0.3s;
     text-align: center;
     margin-left: auto;
