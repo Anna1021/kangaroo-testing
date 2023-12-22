@@ -14,7 +14,7 @@
     border: 1px solid rgb(155, 140, 151);
     text-align: center;
     height: fit-content;
-    background: rgb(13, 84, 94);
+    background: #d1d1f9;
     justify-content: flex-start;
     align-items: center;
     padding: 1em;
@@ -46,7 +46,8 @@
 .update-profile-btn {
     width: 30%;
     margin-top: 1em;
-    background: white;
+    background: rgb(255, 194, 194);
+    border-color: #2b2b6b;
     color: black;
     transition: ease-in 0.3s;
     text-align: center;

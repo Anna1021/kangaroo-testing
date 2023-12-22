@@ -28,7 +28,7 @@
 .edit-button,
 .back-button{
     display: inline-block;
-    background-color: #a55a37;
+    background-color: #7676b3;
     color: white;
     padding: 10px;
     border: none;
@@ -45,7 +45,7 @@
 
 .edit-button:hover,
 .back-button:hover{
-  background: #28242c;
+  background: #4e405c;
   color: white;
 }
 

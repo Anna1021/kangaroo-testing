@@ -34,12 +34,12 @@
 }
 
 .navbar-name {
-    color: #bb4e1b;
+    color: #F4C2C2;
     font-size: 1.5rem;
 }
 
 .navbar-name:hover{
-    color: rgb(32, 143, 158);
+    color: #C2F4F4;
 }
 
 .invite-btn{
