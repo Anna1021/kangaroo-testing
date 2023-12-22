@@ -31,14 +31,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center; 
-    background-color: #a26e5a
+    background-color: #F4C2C2
   }
 
   .section2 {
     display: flex; 
     flex-direction: column; 
     justify-content: center; 
-    background-color: #1e292c4b
+    background-color: #C2DBF4
   }
 
   .cover-heading {
@@ -51,7 +51,7 @@
   }
 
   .home-btn {
-    background-color: #a55a37;
+    background-color: #F7CAC9;
     color: #532b2c;
     border: 1px solid #7c494b;
     width: 200px;

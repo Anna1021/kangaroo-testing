@@ -11,7 +11,7 @@
     align-items: center;
     justify-content: center;
     width: 100%;
-    background-color: rgb(28, 116, 128);
+    background-color: #d1d1f9;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border-radius: 4px;
   }
@@ -33,9 +33,9 @@
     width:80%;
     margin-top: 2%;
     border-radius: 50px;
-    background: #a55a37;
+    background: #7676b3;
     color: rgb(9, 46, 51);
-    border-color: #a55a37;
+    border-color: #2b2b6b;
     transition: ease-in 0.3s;
     margin-left: auto;
     margin-right: auto;
