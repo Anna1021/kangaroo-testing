@@ -26,8 +26,6 @@ A
 tasks/views.py,a/3/a3697f596a75575dd5f2f61a6caa5886cb87edf4
 N
 tasks/templates/dashboard.html,4/b/4bbdaae870ff7a9dc63f6f08e1c743f8f268802e
-G
-static/chicken_font.css,8/d/8d31e2b56c499e32df5794410cff63b6743c64ec
 Q
 !tasks/templates/base_content.html,2/4/24aaeba1abcc832a886fdb7be3dee04744a38758
 I
@@ -66,5 +64,3 @@ D
 tasks/apps.py,0/c/0c75e21fe2c6896b1ae8834882c5b00fbbc7e0ff
 @
 requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
-R
-"tasks/templates/invite_remove.html,b/3/b3ccc462050836f6bd18b1819eeb9c325507a960
